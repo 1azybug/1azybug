@@ -54,6 +54,7 @@ I'm Runsong Zhao 赵润松, an AI major student studying for creating AI from AC
 |(GPT2)language models are unsupervised multitask learners|
 |GPT3 Language Models are Few-Shot Learners|
 |(instructGPT)Training language models to follow instructions with human feedback|
+|(Code X)Evaluating Large Language Models Trained on Code|
 |**Reinforcement learning**|
 |(PPO)Proximal Policy Optimization Algorithms|
 |**other**|
