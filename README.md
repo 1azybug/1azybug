@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm Runsong Zhao 赵润松, an AI major student studying for creating AI from ACGN world!
 
 ## Now working on:
-- implementing the experiment of "Attention Is All You Need"[training now]
+- implementing the experiment of "Attention Is All You Need"([training now](https://github.com/1azybug/pytorch-Transformer))
 - reading paper about LLMs
 - Improving the design of LLM in terms of architecture, data and training strategy
 
@@ -66,7 +66,7 @@ I'm Runsong Zhao 赵润松, an AI major student studying for creating AI from AC
 
 ## 个人经历
 
-&emsp;&emsp;高中毕业时想要做出许多幻想作品中的AI（例如[Atri](https://baike.baidu.com/item/%E4%BA%9A%E6%89%98%E8%8E%89/50041942?fromModule=lemma-qiyi_sense-lemma&fromtitle=ATRI&fromid=50218712)），于是第一志愿报了东北大学的人工智能专业。我当时的想法是只要AI出现就好，不是我创造的也没关系。我当时只了解到神经网络、强化学习等名词，也不知道他们是什么意思。
+&emsp;&emsp;高中毕业时想要做出许多幻想作品中的AI（例如[Atri](https://baike.baidu.com/item/%E4%BA%9A%E6%89%98%E8%8E%89/50041942?fromModule=lemma-qiyi_sense-lemma&fromtitle=ATRI&fromid=50218712)），于是第一志愿报了东北大学的人工智能专业。我当时的想法是：只要AI出现就好，不是我创造的也没关系。我当时只了解到神经网络、强化学习等名词，也不知道他们是什么意思。
 
 &emsp;&emsp;大一时，我看了导论，但只了解到“符号主义”，“连接主义”，“AGI”等泛泛而谈的概念和历史，而对具体的技术一无所知。于是我去找神经网络的资料去学习，很遗憾，因为数学知识的缺乏，学习并不顺利，但还是能理解到神经网络是通过“权重”去影响决策的。到此，我的AI学习之路开始停滞，这段时间我参加了学校的ACM队。
 
